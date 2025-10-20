@@ -12,7 +12,7 @@ Bem-vindo ao meu portfólio online! Este projeto foi desenvolvido para apresenta
 
 ## Como Visualizar
 
-1. https://brunorodriguesdevs.github.io/MEU-PORTFOLIO/
+1. 
 
 2. Abra o arquivo `index.html` no seu navegador para visualizar meu portfólio.
 
